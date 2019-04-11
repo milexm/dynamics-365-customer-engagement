@@ -73,6 +73,9 @@ search.app:
 </table>
 
 ## Return Value
+|Col1|Col2|
+|--|--|
+|test|test|
 
 On success, returns a promise object containing the attributes specified earlier in the description of the **successCallback** parameter.
 
